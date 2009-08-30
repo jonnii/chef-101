@@ -1,18 +1,12 @@
 {
   "apps": [
-    "beast",
-    "mephisto"
+    "twentythirdandlove"
   ],
-  "user": "ez",
+  "user": "twentythirdandlove",
   "gems": [
     {
       "name": "rake",
       "version": "0.8.3"
-    },
-    {
-	  "name": "tmm1-amqp",
-	  "source": "http://gems.github.com",
-	  "version": "0.6.0"
     }
   ],
   "recipes": ["main"]
